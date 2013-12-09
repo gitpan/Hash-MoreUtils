@@ -6,9 +6,9 @@ author:
 build_requires:
   Test::More: 0.90
 configure_requires:
-  Module::Build: 0.40
+  Module::Build: 0.42
 dynamic_config: 1
-generated_by: 'Module::Build version 0.4007, CPAN::Meta::Converter version 2.132661'
+generated_by: 'Module::Build version 0.4203, CPAN::Meta::Converter version 2.132830'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -17,8 +17,8 @@ name: Hash-MoreUtils
 provides:
   Hash::MoreUtils:
     file: lib/Hash/MoreUtils.pm
-    version: 0.04
+    version: 0.05
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/perl5-utils/Hash-MoreUtils
-version: 0.04
+version: 0.05
